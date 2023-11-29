@@ -1,0 +1,7 @@
+Design and Architecture of Threat Intelligence Platform
+Writing pipelines to fetch data from various sources. 
+Schedule and monitor jobs using Apache Airflow. 
+process structured and unstructured dataset.
+Store data into nosql database like Mongodb.
+create data warehouse and data marts for business purposes. 
+postgresql for data marts and OLAP layer.
